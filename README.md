@@ -18,22 +18,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/https://x.com/karanverma26126" target="blank"><img align="center"
+    <a href="https://x.com/karanverma26126" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="https://x.com/karanverma26126" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/karan-9b6678231/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/karan-9b6678231/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/karan-9b6678231/" height="30" width="40" /></a>
-    <a href="https://fb.com/https://www.facebook.com/profile.php?id=100059210772994" target="blank"><img align="center"
+    <a href="https://www.facebook.com/profile.php?id=100059210772994" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="https://www.facebook.com/profile.php?id=100059210772994" height="30" width="40" /></a>
-    <a href="https://instagram.com/https://www.instagram.com/er.karan_verma786/" target="blank"><img align="center"
+    <a href="https://www.instagram.com/er.karan_verma786/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="https://www.instagram.com/er.karan_verma786/" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/https://www.youtube.com/@nothpycoder" target="blank"><img align="center"
+    <a href="https://www.youtube.com/@nothpycoder" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="https://www.youtube.com/@nothpycoder" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/nothp5swm/" target="blank"><img
+    <a href="https://www.geeksforgeeks.org/user/nothp5swm/" target="blank"><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
             alt="https://www.geeksforgeeks.org/user/nothp5swm/" height="30" width="40" /></a>
