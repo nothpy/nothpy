@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://github.com/nothpy/nothpy/blob/main/githubBanner.png)
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">A passionate MERN Stack developer from India </h3>
 <img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
