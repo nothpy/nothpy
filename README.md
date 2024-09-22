@@ -37,13 +37,16 @@
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
             alt="https://www.geeksforgeeks.org/user/nothp5swm/" height="30" width="40" /></a>
-    <a href="https://leetcode.com/u/karan_verma00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="KARAN" height="30" width="40" /></a>        
+    <a href="https://leetcode.com/u/karan_verma00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="KARAN" height="30" width="40" /></a>
+    <a href="https://www.quora.com/profile/Er-karan-Verma-1" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs-Kn4ivFjqj6E6sqqJAEiWQ1_RuJmwrY0PA&s" alt="KARAN" height="30" width="40" /></a>
+    
+<!--     [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Er-karan-Verma-1) -->
 </p>
 <br>
 
 <div id="badges">
 
-## 🛠️ Languages  :
+## 🛠️ Languages  ▄︻デ══━一💥
 <p>
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=javascript,cpp,java,python"/>
@@ -54,17 +57,46 @@
 <br>
 <div id="badges">
 
-## 📚Library ,Frameworks and Databases :
+## 📚Library ,Frameworks and Databases ▄︻デ══━一💥
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,npm,bootstrap,mysql"/>
+   <img src="https://skillicons.dev/icons?i=express,react,nodejs,npm,bootstrap,vite"/>
   </a>
 </p>
 </div>
 <br>
-
-
-
+<h2>🛢 Databases ▄︻デ══━一💥</h2>
+<p>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+  </a>
+</p>
+</div>
+<br>
+<h2>🎯 Version Control ▄︻デ══━一💥</h2>
+<p>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=git,github,"/>
+  </a>
+</p>
+</div>
+<br>
+<h2>🧮 Web-Technologies ▄︻デ══━一💥</h2>
+<p>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=html,css,java-script"/>
+  </a>
+</p>
+</div>
+<br>
+<h2>🖥️Tech-Stack ▄︻デ══━一💥</h2>
+<p>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=illustrator,photoshop"/>
+  </a>
+</p>
+</div>
+<br>
 ## 📈 GitHub Stats
 <div style="display: flex;">
     <div style="margin-right: 10px;">
