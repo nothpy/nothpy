@@ -2,22 +2,6 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">A passionate MERN Stack developer from India </h3>
 <img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
-## 📚 Education  
-
-<table>
-  <tr>
-    <th style="background:#00f3ff;color:#000;padding:10px;border-radius:10px;">🎓 Degree</th>
-    <th style="background:#ff0099;color:#fff;padding:10px;border-radius:10px;">🏫 Institution</th>
-    <th style="background:#ffd700;color:#000;padding:10px;border-radius:10px;">📅 Year</th>
-    <th style="background:#00ff00;color:#000;padding:10px;border-radius:10px;">📍 Location</th>
-  </tr>
-  <tr>
-    <td style="background:#222;color:#fff;padding:10px;border-radius:10px;">B.Tech in ECE</td>
-    <td style="background:#333;color:#00f3ff;padding:10px;border-radius:10px;">CERT Group of Institutions</td>
-    <td style="background:#222;color:#ffd700;padding:10px;border-radius:10px;">2021 - 2025</td>
-    <td style="background:#333;color:#00ff00;padding:10px;border-radius:10px;">Meerut, India</td>
-  </tr>
-</table>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nothpy&label=Profile%20views&color=0e75b6&style=flat" alt="karan" /> </p>
@@ -55,7 +39,23 @@
             alt="https://www.geeksforgeeks.org/user/nothp5swm/" height="30" width="40" /></a>
     <a href="https://leetcode.com/u/karan_verma00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="KARAN" height="30" width="40" /></a>
     <a href="https://www.quora.com/profile/Er-karan-Verma-1" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs-Kn4ivFjqj6E6sqqJAEiWQ1_RuJmwrY0PA&s" alt="KARAN" height="30" width="40" /></a>
-    
+    ## 📚 Education  
+
+<table>
+  <tr>
+    <th style="background:#00f3ff;color:#000;padding:10px;border-radius:10px;">🎓 Degree</th>
+    <th style="background:#ff0099;color:#fff;padding:10px;border-radius:10px;">🏫 Institution</th>
+    <th style="background:#ffd700;color:#000;padding:10px;border-radius:10px;">📅 Year</th>
+    <th style="background:#00ff00;color:#000;padding:10px;border-radius:10px;">📍 Location</th>
+  </tr>
+  <tr>
+    <td style="background:#222;color:#fff;padding:10px;border-radius:10px;">B.Tech in ECE</td>
+    <td style="background:#333;color:#00f3ff;padding:10px;border-radius:10px;">CERT Group of Institutions</td>
+    <td style="background:#222;color:#ffd700;padding:10px;border-radius:10px;">2021 - 2025</td>
+    <td style="background:#333;color:#00ff00;padding:10px;border-radius:10px;">Meerut, India</td>
+  </tr>
+</table>
+
 <!--     [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Er-karan-Verma-1) -->
 </p>
 <br>
