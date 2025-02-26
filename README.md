@@ -1,9 +1,8 @@
 ![MasterHead](https://github.com/nothpy/nothpy/blob/main/githubBanner.png)
 <h1 align="center">⚡ Karan Verma ⚡</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%2300f3ff&size=22&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+🚀;MERN+Stack+Enthusiast+🔥;Open+Source+Contributor+💻;GATE+2025+Aspirant+🎯" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%2300f3ff&size=22&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+🚀;MERN+Stack+Enthusiast+🔥;Open+Source+Contributor+💻;GATE+2026+Aspirant+🎯" />
 </p>
-<h3 align="center">A passionate MERN Stack developer from India </h3>
 <img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
 
 
@@ -17,7 +16,7 @@
 
 - 📫 How to reach me **nothpy01@gmail.com**
 
-- 📄 Know about my experiences (MY CV)  [https://drive.google.com/file/d/1Or4aD8C9gs-jalclzR_a5ZFbJXUli_Mj/view?usp=drive_link](https://drive.google.com/file/d/1Or4aD8C9gs-jalclzR_a5ZFbJXUli_Mj/view?usp=drive_link)
+- 📄 Know about my experiences (MY CV)  [https://drive.google.com/file/d/1Or4aD8C9gs-jalclzR_a5ZFbJXUli_Mj/view?usp=drive_link](https://drive.google.com/file/d/1sk-RoEzuHSLbTake-cBtC1ld3um6CYtL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
