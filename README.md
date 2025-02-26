@@ -116,3 +116,95 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nothpy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<h1 align="center">⚡ Karan Verma ⚡</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%2300f3ff&size=22&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+🚀;MERN+Stack+Enthusiast+🔥;Open+Source+Contributor+💻;GATE+2025+Aspirant+🎯" />
+</p>
+
+---
+
+### 🚀 **About Me**  
+
+🎯 Passionate **Full-Stack Developer** specializing in **MERN Stack**  
+📡 Building **scalable & interactive** web apps with **React, Node.js, MongoDB**  
+🏆 **GATE 2024 Qualified**, now preparing for **GATE 2025**  
+📍 **Hackathon Organizer & Participant** | Love solving **real-world problems**  
+🔥 Always exploring **Next.js, Tailwind CSS, and AI-integrated apps**  
+
+---
+
+### 🎨 **Tech Stack & Skills**  
+
+#### 🚀 **Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+#### 🎛️ **Tools & Platforms**
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)  
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+
+---
+
+### 💻 **Projects**  
+
+🚀 **[MemeVerse](https://github.com/nothpy/memeverse)** → *A futuristic meme-sharing platform with AI-generated captions, infinite scrolling & dark mode!*  
+
+📚 **[Library Management System](https://github.com/nothpy/library-management)** → *A full-stack system to manage books & users with CRUD operations.*  
+
+📄 **[Resume Generator](https://github.com/nothpy/resume-generator)** → *An app to create professional resumes with multiple sections & preview!*  
+
+🌍 **[EchoHive](https://github.com/nothpy/echohive)** → *A social media web app where users can share thoughts & engage!*  
+
+---
+
+### 🏆 **Achievements & Hackathons**  
+
+🏅 **Tech-A-Thon 2022** - Gautam Buddha University, Greater Noida  
+🏅 **Code4Cause Hackathon 2023** - Maharaja Surajmal Institute of Technology, Delhi  
+🏅 **Co-Organizer of CODEQUEST Hackathon 2024** - CERT Group of Institutions, Meerut  
+🎯 **Qualified GATE 2024** - Pursuing **GATE 2025**  
+
+---
+
+### 📚 **Education**  
+
+<table>
+  <tr>
+    <th style="background:#00f3ff;color:#000;padding:10px;border-radius:10px;">🎓 Degree</th>
+    <th style="background:#ff0099;color:#fff;padding:10px;border-radius:10px;">🏫 Institution</th>
+    <th style="background:#ffd700;color:#000;padding:10px;border-radius:10px;">📅 Year</th>
+    <th style="background:#00ff00;color:#000;padding:10px;border-radius:10px;">📍 Location</th>
+  </tr>
+  <tr>
+    <td style="background:#222;color:#fff;padding:10px;border-radius:10px;">B.Tech in ECE</td>
+    <td style="background:#333;color:#00f3ff;padding:10px;border-radius:10px;">CERT Group of Institutions</td>
+    <td style="background:#222;color:#ffd700;padding:10px;border-radius:10px;">2021 - 2025</td>
+    <td style="background:#333;color:#00ff00;padding:10px;border-radius:10px;">Meerut, India</td>
+  </tr>
+</table>
+
+---
+
+### 📬 **Let's Connect**  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/nothpy)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/nothpy)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nothpy00@gmail.com)  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nothpy&show_icons=true&theme=radical" />
+</p>
+
+---
+
+🔥 **"Building the future, one line of code at a time!"** 🚀
