@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nothpy&label=Profile%20views&color=0e75b6&style=flat" alt="karan" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently working in CDAC Delhi
 
 - 👨‍💻 All of my projects are available at [https://nothpy.github.io/portfolio/](https://nothpy.github.io/portfolio/)
 
