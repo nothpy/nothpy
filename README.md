@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nothpy01@gmail.com**
 
-- 📄 Know about my experiences (MY CV)  [https://drive.google.com/file/d/1Or4aD8C9gs-jalclzR_a5ZFbJXUli_Mj/view?usp=drive_link](https://drive.google.com/file/d/1sk-RoEzuHSLbTake-cBtC1ld3um6CYtL/view?usp=sharing)
+- 📄 Know about my experiences (MY CV)  (https://drive.google.com/file/d/17Rh0VENmt81BngdvCR9m0M0FpiuppBRq/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
