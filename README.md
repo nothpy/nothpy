@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nothpy.github.io/portfolio/](https://nothpy.github.io/portfolio/)
 
-- 💬 Ask me about **MERN, DSA , C++ , DSA**
+- 💬 Ask me about **DSA , C++ , Java, Spring Boot, Reactjs, Nodejs, MongoDb, ExpressJS**
 
 - 📫 How to reach me **nothpy01@gmail.com**
 
@@ -23,7 +23,7 @@
     <a href="https://x.com/karanverma26126" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="https://x.com/karanverma26126" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/karan-9b6678231/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/nothpy/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/karan-9b6678231/" height="30" width="40" /></a>
     <a href="https://www.facebook.com/profile.php?id=100059210772994" target="blank"><img align="center"
