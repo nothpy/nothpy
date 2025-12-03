@@ -35,14 +35,17 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
   </a>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript"/>
   </a>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vite,npm,bootstrap,tailwind,html,css,redux,git,github"/>
   </a>
+  <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,cpp,javascript,java,python,npm,bootstrap,git,github,html,css,redux"/>
+    <img src="https://skillicons.dev/icons?i=spring,postman,hibernate"/>
   </a>
 </p>
 
