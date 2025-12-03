@@ -45,7 +45,7 @@
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,postman,hibernate"/>
+    <img src="https://skillicons.dev/icons?i=spring,springboot,springai,postman,hibernate"/>
   </a>
 </p>
 
