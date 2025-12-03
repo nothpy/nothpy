@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/nothpy/nothpy/blob/main/programmer.jpg)
-<h1 align="center">⚡ Karan  ⚡</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%2300f3ff&size=22&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+🚀;MERN+Stack+Developer+🔥;JAVA+Developer+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%2300f3ff&size=22&center=true&vCenter=true&width=600&lines=Full-Stack+Java+Developer+🚀" />
 </p>
 <img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
 
