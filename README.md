@@ -12,36 +12,19 @@
 
 - 👨‍💻 All of my projects are available at [https://nothpy.github.io/portfolio/](https://nothpy.github.io/portfolio/)
 
-- 💬 Ask me about **DSA , C++ , Java, Spring Boot, Reactjs, Nodejs, MongoDb, ExpressJS**
+- 📫 How to reach me **karan639810@gmail.com**
 
-- 📫 How to reach me **nothpy01@gmail.com**
-
-- 📄 Know about my experiences (MY CV)  (https://drive.google.com/file/d/17Rh0VENmt81BngdvCR9m0M0FpiuppBRq/view?usp=drive_link)
+- 📄 Know about my experiences (MY CV)  (https://drive.google.com/file/d/1D0591XbhBMYUMSbIAPfbi2mwrP6FzsMn/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://x.com/karanverma26126" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="https://x.com/karanverma26126" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/nothpy/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/karan-9b6678231/" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/profile.php?id=100059210772994" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="https://www.facebook.com/profile.php?id=100059210772994" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/er.karan_verma786/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="https://www.instagram.com/er.karan_verma786/" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/@nothpycoder" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="https://www.youtube.com/@nothpycoder" height="30" width="40" /></a>
     <a href="https://www.geeksforgeeks.org/user/nothp5swm/" target="blank"><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
             alt="https://www.geeksforgeeks.org/user/nothp5swm/" height="30" width="40" /></a>
-    <a href="https://leetcode.com/u/karan_verma00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="KARAN" height="30" width="40" /></a>
-    <a href="https://www.quora.com/profile/Er-karan-Verma-1" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs-Kn4ivFjqj6E6sqqJAEiWQ1_RuJmwrY0PA&s" alt="KARAN" height="30" width="40" /></a>
-
 </p>
 <br>
 
@@ -76,18 +59,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nothpy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 📬 **Let's Connect**  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/nothpy)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/nothpy)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nothpy00@gmail.com)  
-
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nothpy&show_icons=true&theme=radical" />
 </p>
 
----
-
-🔥 **"Building the future, one line of code at a time!"** 🚀
