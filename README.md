@@ -16,56 +16,56 @@
 
 - 📄 Know about my experiences (MY CV)  (https://drive.google.com/file/d/1D0591XbhBMYUMSbIAPfbi2mwrP6FzsMn/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/nothpy/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/karan-9b6678231/" height="30" width="40" /></a>
-    <a href="https://www.geeksforgeeks.org/user/nothp5swm/" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-            alt="https://www.geeksforgeeks.org/user/nothp5swm/" height="30" width="40" /></a>
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/nothpy"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+  <a href="https://github.com/nothpy"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
+  <a href="mailto:nothpy00@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
 </p>
 <br>
 
 <div id="badges">
 
-## 🛠️ Technical Skills  ▄︻デ══━一💥
+<h2 align="center">🛠️ Technical Skills ▄︻デ══━一💥</h2>
+
+<!-- ===== MERN STACK ===== -->
+<h3 align="center">🚀 Tech Stack</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,mysql"/>
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript"/>
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,npm,bootstrap,tailwind,html,css,redux,git,github"/>
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,eclipse,postman,hibernate,idea,vscode"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,mysql" />
 </p>
 
-<p>
-  <img src="https://github.com/nothpy/nothpy/blob/main/banner.png"/>
+<!-- ===== PROGRAMMING LANGUAGES ===== -->
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
+</p>
+
+<!-- ===== FRONTEND & TOOLS ===== -->
+<h3 align="center">🎨 Frontend & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux,vite,npm" />
+</p>
+
+<!-- ===== BACKEND & DEVOPS ===== -->
+<h3 align="center">🧩 Backend & Developer Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,postman,git,github,eclipse,vscode,idea" />
+</p>
+
+<!-- ===== BANNER ===== -->
+<p align="center">
+  <img src="https://github.com/nothpy/nothpy/blob/main/banner.png" width="90%" />
 </p>
 
 </div>
-
 
 
 <br>
-## 📈 GitHub Stats
-<div style="display: flex;">
-    <div style="margin-right: 10px;">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nothpy&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;"><br> <br>
-         <img src="https://github-readme-stats.vercel.app/api?username=nothpy&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;"> <br> <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nothpy&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
-    </div>
-</div>
+
+## 🐍 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nothpy&theme=highcontrast" width="50%"/>
+</p>
 <br>
 
 ## 🏆 GitHub Trophies
@@ -76,4 +76,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nothpy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🔥 GitHub Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nothpy&theme=high-contrast)
+
+
 
