@@ -51,7 +51,7 @@
 ## 🛠️ Languages  ▄︻デ══━一💥
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=javascript,cpp,java,python"/>
+   <img src="https://skillicons.dev/icons?i=javascript,cpp,java,python,express,react,nodejs,npm,bootstrap,vite,mongodb,mysql,git,github,html,css,java-script"/>
   </a>
 </p>
 </div>
