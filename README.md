@@ -36,6 +36,9 @@
    <img src="https://skillicons.dev/icons?i=javascript,cpp,java,python,express,react,nodejs,npm,bootstrap,vite,mongodb,mysql,git,github,html,css,java-script"/>
   </a>
 </p>
+<p>
+   <img src="https://github.com/nothpy/nothpy/blob/main/banner.png"/>
+</p>
 </div>
 
 
