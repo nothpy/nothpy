@@ -33,7 +33,7 @@
 ## 🛠️ Technical Skills  ▄︻デ══━一💥
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,mysql"/>
   </a>
   <br>
   <a href="https://skillicons.dev">
@@ -45,7 +45,7 @@
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,eclipse,spring-boot,spring-ai,postman,hibernate,idea,vscode"/>
+    <img src="https://skillicons.dev/icons?i=spring,eclipse,postman,hibernate,idea,vscode"/>
   </a>
 </p>
 
