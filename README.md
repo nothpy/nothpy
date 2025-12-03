@@ -33,22 +33,25 @@
 ## 🛠️ Technical Skills  ▄︻デ══━一💥
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i= mongodb,express,react,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
   </a>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i= c,  cpp,python, java,javascript"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript"/>
   </a>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i= vite,npm,bootstrap,tailwind, html,css,redux, ,git,github"/>
+    <img src="https://skillicons.dev/icons?i=vite,npm,bootstrap,tailwind,html,css,redux,git,github"/>
   </a>
-   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i= mongodb,express,react,nodejs, vitec,  cpp, javascript,java,python,npm,bootstrap,,git,github,html,css,java-script,redux"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,cpp,javascript,java,python,npm,bootstrap,git,github,html,css,redux"/>
   </a>
 </p>
+
 <p>
-   <img src="https://github.com/nothpy/nothpy/blob/main/banner.png"/>
+  <img src="https://github.com/nothpy/nothpy/blob/main/banner.png"/>
 </p>
+
 </div>
+
 
 
 <br>
