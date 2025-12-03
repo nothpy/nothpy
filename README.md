@@ -31,9 +31,18 @@
 <div id="badges">
 
 ## 🛠️ Technical Skills  ▄︻デ══━一💥
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=javascript,cpp,java,python,express,react,nodejs,npm,bootstrap,vite,mongodb,mysql,git,github,html,css,java-script,redux"/>
+   <img src="https://skillicons.dev/icons?i= mongodb,express,react,nodejs"/>
+  </a>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i= c,  cpp,python, java,javascript"/>
+  </a>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i= vite,npm,bootstrap,tailwind, html,css,redux, ,git,github"/>
+  </a>
+   <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i= mongodb,express,react,nodejs, vitec,  cpp, javascript,java,python,npm,bootstrap,,git,github,html,css,java-script,redux"/>
   </a>
 </p>
 <p>
