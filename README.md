@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working in CDAC Delhi
 
-- 👨‍💻 All of my projects are available at [https://nothpy.github.io/portfolio/](https://nothpy.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://nothpy.github.io/portfolio/](https://nothpy.github.io/personal-portfolio/)
 
 - 📫 How to reach me **karan639810@gmail.com**
 
