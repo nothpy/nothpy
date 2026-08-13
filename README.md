@@ -1,27 +1,25 @@
-![MasterHead](https://github.com/nothpy/nothpy/blob/main/programmer.jpg)
+![MasterHead](https://github.com/nothpy/nothpy/blob/main/github_3d_animated_banner.gif)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%2300f3ff&size=22&center=true&vCenter=true&width=600&lines=Full-Stack+Java+Developer+🚀" />
-</p>
-<img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nothpy&label=Profile%20views&color=0e75b6&style=flat" alt="karan" /> </p>
-
-- 🌱 I’m currently working in CDAC Delhi
-
-- 👨‍💻 All of my projects are available at [https://nothpy.github.io/portfolio/](https://nothpy.github.io/personal-portfolio/)
-
-- 📫 How to reach me **karan639810@gmail.com**
-
-- 📄 Know about my experiences (MY CV)  (https://drive.google.com/file/d/1D0591XbhBMYUMSbIAPfbi2mwrP6FzsMn/view?usp=drive_link)
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/nothpy"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-  <a href="https://github.com/nothpy"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
-  <a href="mailto:nothpy00@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=800&color=00F3FF&center=true&vCenter=true&width=700&lines=%3E+Full-Stack+%2F+Java+Developer_;%3E+Building+with+Spring+Boot+%26+REST+APIs;%3E+DBA+%40+Bharat+Electronics+Limited;%3E+240%2B+DSA+Problems+Solved" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=nothpy&label=PROFILE%20VIEWS&color=00f3ff&style=for-the-badge" alt="karan" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00f3ff?style=for-the-badge&logo=statuspage&logoColor=black" />
+</div>
+<img align="right" alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
+```yaml
+whoami: Karan
+role: Entry-Level Java / Full-Stack Developer
+location: Meerut, Uttar Pradesh, India
+focus: [Core Java, Spring Boot, REST APIs, SQL]
+mindset: "Clean code > clever code"
+```
+ 
+- 🛡️ Currently working as a **Database Administrator (Apprentice)** at **Bharat Electronics Limited (BEL)**, Ghaziabad — Oracle DB, backup & recovery, RHEL server administration
+- 🌱 Previously a **Java Developer Intern** at **CDAC Delhi**, building Spring Boot REST APIs for an E-Governance system
+- 👨‍💻 All my projects are available at my [Portfolio](https://nothpy.github.io/personal-portfolio/)
+- 📫 Reach me at **karan639810@gmail.com**
+- 📄 Know about my experience — [My CV](https://drive.google.com/file/d/1D0591XbhBMYUMSbIAPfbi2mwrP6FzsMn/view?usp=drive_link)
+- ⚡ Fun fact: 240+ DSA problems solved on GeeksforGeeks + completed the 160-Day DSA Challenge
 <br>
 
 <div id="badges">
