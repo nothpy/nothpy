@@ -22,9 +22,9 @@ mindset: "Clean code > clever code"
 
 - 🛡️ Currently working as a **Database Administrator (Apprentice)** at **Bharat Electronics Limited (BEL)**, Ghaziabad — Oracle DB, backup & recovery, RHEL server administration
 - 🌱 Previously a **Java Developer Intern** at **CDAC Delhi**, building Spring Boot REST APIs for an E-Governance system
-- 👨‍💻 All my projects are available at my [Portfolio](https://nothpy.github.io/personal-portfolio/)
+##- 👨‍💻 All my projects are available at my [Portfolio](https://nothpy.github.io/personal-portfolio/)
 - 📫 Reach me at **karan639810@gmail.com**
-- 📄 Know about my experience — [My CV](https://drive.google.com/file/d/1D0591XbhBMYUMSbIAPfbi2mwrP6FzsMn/view?usp=drive_link)
+- 📄 Know about my experience — [My CV](https://drive.google.com/file/d/1w2NmK5yxASNCGUvKqy3fhnkPs-f4Efoj/view?usp=sharing)
 - ⚡ Fun fact: 240+ DSA problems solved on GeeksforGeeks + completed the 160-Day DSA Challenge
 
 <br>
@@ -123,7 +123,7 @@ Performance-focused, modular Spring Boot REST APIs built during my internship at
 ## 🐍 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nothpy&theme=highcontrast&hide_border=true&background=0D1117&ring=00F3FF&fire=00F3FF&currStreakLabel=00F3FF" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nothpy&theme=highcontrast" width="70%"/>
 </p>
 
 ## 📊 GitHub Stats
