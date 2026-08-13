@@ -126,7 +126,7 @@ Performance-focused, modular Spring Boot REST APIs built during my internship at
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nothpy&theme=highcontrast" width="70%"/>
 </p>
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nothpy&theme=radical&no-frame=false&no-bg=true&margin-w=48%"/>
@@ -137,7 +137,7 @@ Performance-focused, modular Spring Boot REST APIs built during my internship at
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nothpy&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+</p> -->
 
 ### ✍️ Random Dev Quote
 <p align="center">
