@@ -129,7 +129,7 @@ Performance-focused, modular Spring Boot REST APIs built during my internship at
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nothpy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F3FF&icon_color=00F3FF" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nothpy&theme=radical&no-frame=false&no-bg=true&margin-w=48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothpy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F3FF" width="38%"/>
 </p>
 
